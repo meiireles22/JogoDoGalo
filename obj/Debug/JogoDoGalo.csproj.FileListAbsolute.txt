@@ -1,0 +1,7 @@
+E:\14400\Programação\2P\C#\Aula4\JogoDoGalo\bin\Debug\JogoDoGalo.exe.config
+E:\14400\Programação\2P\C#\Aula4\JogoDoGalo\bin\Debug\JogoDoGalo.exe
+E:\14400\Programação\2P\C#\Aula4\JogoDoGalo\bin\Debug\JogoDoGalo.pdb
+E:\14400\Programação\2P\C#\Aula4\JogoDoGalo\obj\Debug\JogoDoGalo.csproj.AssemblyReference.cache
+E:\14400\Programação\2P\C#\Aula4\JogoDoGalo\obj\Debug\JogoDoGalo.csproj.CoreCompileInputs.cache
+E:\14400\Programação\2P\C#\Aula4\JogoDoGalo\obj\Debug\JogoDoGalo.exe
+E:\14400\Programação\2P\C#\Aula4\JogoDoGalo\obj\Debug\JogoDoGalo.pdb
